@@ -9,6 +9,9 @@ imap jj <Esc>
 
 set autoindent
 
+nnoremap H gT
+nnoremap L gt
+
 """ tags file
 set tags=./tags;/,tags;/
 
